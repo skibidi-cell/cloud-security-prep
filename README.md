@@ -20,3 +20,8 @@ To provide evidence of:
 - AWS (beginner level)
 - Markdown
 
+## 📂 Repository Structure
+- Learning Log
+- Handwritten Notes (scanned)
+- Summaries in my own words
+- Labs and projects
